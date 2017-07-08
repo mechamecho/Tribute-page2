@@ -1,0 +1,22 @@
+.header{
+    color:blue;
+    text-align: center;
+    
+}
+
+body{
+    background-color: #c1ff86;
+}
+
+.ideas{
+    background-color: #adcfff;
+}
+
+#idea-list{
+    background-color:#946945;
+    font-family: sans-serif;
+}
+
+#header-design{
+    color:#6d4c22;
+}
